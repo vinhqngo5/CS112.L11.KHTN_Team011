@@ -2,8 +2,6 @@ from sys import stdin, stdout
 import bisect
 
 def solveEquation(a, b):
-      if (a == 0):
-            return b
       return -b/a
 
 def uniform(a, b, c, d, X, Y):
@@ -11,7 +9,7 @@ def uniform(a, b, c, d, X, Y):
       if (d == 0):
             return temp, X
       pmet = Y - c/d * X
-      return temp, solveEquation(b, pmet)
+      return temp, solveEquation(c/d, pmet)
 
 n = int(input())
 a, c = input().split()
