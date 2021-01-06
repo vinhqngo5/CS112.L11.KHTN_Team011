@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571976405 source:c:\users\vinh ngo\desktop\c++ practice\thebox\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<iomanip>
+
