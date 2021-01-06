@@ -20,4 +20,12 @@
     <h2>Notebook computational thinking</h2>
         <ul>
             <li>Week 1: <a href="https://github.com/vinhqngo5/CS112.L11.KHTN_Team011/tree/master/WeeklyPractice/week1">Week 1</a></li>
-        </ul>
+            <li>Week 2: <a href="https://github.com/vinhqngo5/CS112.L11.KHTN_Team011/tree/master/WeeklyPractice/week1">Week 2</a></li>
+            <li>Week 3: <a href="https://github.com/vinhqngo5/CS112.L11.KHTN_Team011/tree/master/WeeklyPractice/week1">Week 3</a></li>
+            <li>Week 4: <a href="https://github.com/vinhqngo5/CS112.L11.KHTN_Team011/tree/master/WeeklyPractice/week1">Week 4</a></li>
+            <li>Week 5: <a href="https://github.com/vinhqngo5/CS112.L11.KHTN_Team011/tree/master/WeeklyPractice/week1">Week 5</a></li>
+            <li>Week 6: <a href="https://github.com/vinhqngo5/CS112.L11.KHTN_Team011/tree/master/WeeklyPractice/week1">Week 6</a></li>
+            <li>Week 8: <a href="https://github.com/vinhqngo5/CS112.L11.KHTN_Team011/tree/master/WeeklyPractice/week1">Week 8</a></li>
+            <li>Week 11: <a href="https://github.com/vinhqngo5/CS112.L11.KHTN_Team011/tree/master/WeeklyPractice/week1">Week 11</a></li>
+            <li>Week 12: <a href="https://github.com/vinhqngo5/CS112.L11.KHTN_Team011/tree/master/WeeklyPractice/week1">Week 12</a></li>
+        </ul>   
