@@ -33,6 +33,7 @@
         <ul>
             <li>Tài liệu tham khảo: <a href="https://github.com/vinhqngo5/CS112.L11.KHTN_Team011/tree/master/Seminar/Docs">Docs</a></li>
             <li>Slide: <a href="https://github.com/vinhqngo5/CS112.L11.KHTN_Team011/tree/master/Seminar/Slide">Slide</a></li>
+            <li>Câu hỏi thảo luận: <a href="https://github.com/vinhqngo5/CS112.L11.KHTN_Team011/tree/master/Seminar/Question_Quizzes">Question</a></li>
         </ul>   
     <h2>Codeforce Practice</h2>
         <ul>
