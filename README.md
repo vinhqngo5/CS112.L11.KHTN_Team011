@@ -25,7 +25,7 @@
             <li>Week 4: <a href="https://github.com/vinhqngo5/CS112.L11.KHTN_Team011/tree/master/WeeklyPractice/week4">Week 4</a></li>
             <li>Week 5: <a href="https://github.com/vinhqngo5/CS112.L11.KHTN_Team011/tree/master/WeeklyPractice/week5">Week 5</a></li>
             <li>Week 6: <a href="https://github.com/vinhqngo5/CS112.L11.KHTN_Team011/tree/master/WeeklyPractice/week6">Week 6</a></li>
-            <li>Week 7: <a href="https://github.com/vinhqngo5/CS112.L11.KHTN_Team011/tree/master/WeeklyPractice/week7">Week 6</a></li>
+            <li>Week 7: <a href="https://github.com/vinhqngo5/CS112.L11.KHTN_Team011/tree/master/WeeklyPractice/week7">Week 7</a></li>
             <li>Week 8: <a href="https://github.com/vinhqngo5/CS112.L11.KHTN_Team011/tree/master/WeeklyPractice/week8">Week 8</a></li>
             <li>Week 11: <a href="https://github.com/vinhqngo5/CS112.L11.KHTN_Team011/tree/master/WeeklyPractice/week11">Week 11</a></li>
             <li>Week 12: <a href="https://github.com/vinhqngo5/CS112.L11.KHTN_Team011/tree/master/WeeklyPractice/week12">Week 12</a></li>
